@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/personal-resume/static/css/main.9181c83d.css",
+    "main.js": "/personal-resume/static/js/main.f9bd7be3.js",
+    "static/media/Roboto-Regular.ttf": "/personal-resume/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "index.html": "/personal-resume/index.html",
+    "main.9181c83d.css.map": "/personal-resume/static/css/main.9181c83d.css.map",
+    "main.f9bd7be3.js.map": "/personal-resume/static/js/main.f9bd7be3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9181c83d.css",
+    "static/js/main.f9bd7be3.js"
+  ]
+}
